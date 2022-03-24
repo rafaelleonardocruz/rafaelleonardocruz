@@ -1,16 +1,35 @@
-### Hi there 👋
+## Hey, I'm Rafa Leo!
 
-<!--
-**rafaelleonardocruz/rafaelleonardocruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Cruz-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-leonardo-cruz/)](https://www.linkedin.com/in/rafael-leonardo-cruz/ "Connect on LinkedIn")
+[![Twitter Follow](https://img.shields.io/twitter/follow/RafaLeo_cruz?)](https://twitter.com/intent/follow?screen_name=RafaLeo_cruz "Follow on Twitter")
+![GitHub followers](https://img.shields.io/github/followers/rafaelleonardocruz?label=Follow&style=social)
+[![Medium page](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white&link=https://rafa-leo.medium.com/)](https://rafa-leo.medium.com/ "Follow on Medium")
+![](https://visitor-badge.glitch.me/badge?page_id=rafaelleonardocruz.rafaelleonardocruz?style=flat)
 
-Here are some ideas to get you started:
+I am Production Engineer at [Creditas](https://www.creditas.com/) and passionate by Cloud, IaC, SRE philosophy and microservices. Degree in Computer Network in 2016 by [Bandtec](https://www.sptech.school/) I'm trying to learn some stuff since then through open-source community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![AWS Certified SysOps Administrator - Associate](images/aws-certified-sysops-administrator-associate.png)](https://www.credly.com/badges/4b59878b-6b31-4788-b912-fdaf4af675ff/public_url)
+[![AWS Certified Solutions Architect - Associate](images/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/e74be55d-f9aa-4d7b-913a-bf7b8179874b/public_url)
+
+
+## I like
+
+- Open-source, Terraform, AWS, Kubernetes and Go.
+- Coffee.
+- Rappel.
+- Travel
+
+<details>
+  <summary>Some of my Public Stats</summary>
+  
+  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=rafaelleonardocruz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/rafaelleonardocruz)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelleonardocruz)
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=rafaelleonardocruz&color=blue)
+  ----
+  
+</details>
+
+[![Profile last updated](https://img.shields.io/github/last-commit/rafaelleonardocruz/rafaelleonardocruz/main?label=Last%20updated&style=flat)](https://github.com/rafaelleonardocruz/rafaelleonardocruz/commits)
