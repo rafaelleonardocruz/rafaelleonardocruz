@@ -31,5 +31,3 @@ I am Production Engineer at [Creditas](https://www.creditas.com/) and passionate
   ----
   
 </details>
-
-[![Profile last updated](https://img.shields.io/github/last-commit/rafaelleonardocruz/rafaelleonardocruz/main?label=Last%20updated&style=flat)](https://github.com/rafaelleonardocruz/rafaelleonardocruz/commits)
