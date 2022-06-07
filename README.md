@@ -23,7 +23,10 @@ I am Production Engineer at [Creditas](https://www.creditas.com/) and passionate
 <details>
   <summary>Some of my Public Stats</summary>
   
-  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=rafaelleonardocruz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/rafaelleonardocruz)
+  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=rafaelleonardocruz&ishow_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/rafaelleonardocruz)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelleonardocruz&layout=compact)](https://github.com/rafaelleonardocruz)
+
 
   ![Profile Views](https://komarev.com/ghpvc/?username=rafaelleonardocruz&color=blue)
   ----
