@@ -11,6 +11,7 @@ I am Production Engineer at [Creditas](https://www.creditas.com/) and passionate
 
 [![AWS Certified SysOps Administrator - Associate](images/aws-certified-sysops-administrator-associate.png)](https://www.credly.com/badges/4b59878b-6b31-4788-b912-fdaf4af675ff/public_url)
 [![AWS Certified Solutions Architect - Associate](images/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/e74be55d-f9aa-4d7b-913a-bf7b8179874b/public_url)
+[![CKA: Certified Kubernetes Administrator](images/certified-kubernetes-administrator.png)](https://www.credly.com/badges/7441297f-daa8-4923-8d1e-fe36f3077836/public_url)
 
 
 ## I like
